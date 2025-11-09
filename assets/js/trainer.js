@@ -35,7 +35,7 @@ trainers.forEach((trainer, index) => {
 
   member.innerHTML = `
     <div class="member-img">
-      <img src="assets/img/trainers/${i}.jpg" class="img-fluid" alt="${trainer.name}">
+      <img src="assets/img/trainers/${i}.JPG" class="img-fluid" alt="${trainer.name}">
       <div class="social">
         <a href="#"><i class="bi bi-twitter-x"></i></a>
         <a href="#"><i class="bi bi-facebook"></i></a>
